@@ -21,6 +21,7 @@ public class Arrays {
         max = Math.max(max, arr[i]);
 
        }
+       sc.close();
        System.out.println("The minimum eleemnt from an array is : "+min);
        System.out.println("The maximum element from an array is : "+max);
        

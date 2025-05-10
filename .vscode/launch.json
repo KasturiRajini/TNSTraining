@@ -1,0 +1,133 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "StringReverse",
+            "request": "launch",
+            "mainClass": "StringReverse",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "SubStrings",
+            "request": "launch",
+            "mainClass": "SubStrings",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "com.tnsif.arrays.Arrays",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "EmployeeMain",
+            "request": "launch",
+            "mainClass": "com.tnsif.collectionframework.EmployeeMain",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "FindingDuplicate",
+            "request": "launch",
+            "mainClass": "com.tnsif.collectionframework.FindingDuplicate",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "StudentMain",
+            "request": "launch",
+            "mainClass": "com.tnsif.collectionframework.StudentMain",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "StudentMarksMain",
+            "request": "launch",
+            "mainClass": "com.tnsif.collectionframework.StudentMarksMain",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "FunctionEx",
+            "request": "launch",
+            "mainClass": "com.tnsif.predefinedinterfaces.FunctionEx",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "PredicateEx",
+            "request": "launch",
+            "mainClass": "com.tnsif.predefinedinterfaces.PredicateEx",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "CollectExamples",
+            "request": "launch",
+            "mainClass": "com.tnsif.versioneight.CollectExamples",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "LamdaExpressionDemo",
+            "request": "launch",
+            "mainClass": "com.tnsif.versioneight.LamdaExpressionDemo",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "MapAndSortedEx",
+            "request": "launch",
+            "mainClass": "com.tnsif.versioneight.MapAndSortedEx",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "NumberCheck",
+            "request": "launch",
+            "mainClass": "com.tnsif.versioneight.NumberCheck",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "ReduceMethodEx",
+            "request": "launch",
+            "mainClass": "com.tnsif.versioneight.ReduceMethodEx",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "ReduceandCollectAbstractMethods",
+            "request": "launch",
+            "mainClass": "com.tnsif.versioneight.ReduceandCollectAbstractMethods",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "StreamDemoEmp",
+            "request": "launch",
+            "mainClass": "com.tnsif.versioneight.StreamDemoEmp",
+            "projectName": "TNSTraining_76e5e365"
+        },
+        {
+            "type": "java",
+            "name": "VowelCheck",
+            "request": "launch",
+            "mainClass": "com.tnsif.versioneight.VowelCheck",
+            "projectName": "TNSTraining_76e5e365"
+        }
+    ]
+}
