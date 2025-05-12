@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PerformingcurdOperations",
+            "request": "launch",
+            "mainClass": "com.tnsif.jdbc.PerformingcurdOperations",
+            "projectName": "TNSTraining"
+        },
+        {
+            "type": "java",
             "name": "ReferencetoStaticEg",
             "request": "launch",
             "mainClass": "com.tnsif.versioneight.methodreference.ReferencetoStaticEg",
