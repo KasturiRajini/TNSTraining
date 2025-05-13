@@ -2,7 +2,6 @@ package com.tnsif.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-import java.sql.ResultSet;
 import java.sql.Statement;
 
 public class PerformingcurdOperations {
@@ -17,11 +16,11 @@ public class PerformingcurdOperations {
 					getConnection("jdbc:postgresql://localhost:5432/KPRIT","postgres","root");		
 			System.out.println("Connected to the driver sucessfully");
 			//step 3 is to create a statement object 
-			String query = "insert into student values(3,'Srinivas',200)";
+			String query = "insert into student values(4,'Laxmi',89)";
 			Statement stmt = connection.createStatement();
 			//step 4 is to execute the query 
-			ResultSet rs = stmt.executeQuery(query);
-			System.out.println("data inserted sucessfully");
+			int k = stmt.executeUpdate(query);
+			System.out.println(k+" rows inserted!");
 			//step 5 close the connection
 			connection.close();
 		}catch(Exception exc) {
