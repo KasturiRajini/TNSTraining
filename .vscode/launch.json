@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RetrievingDataFromDb",
+            "request": "launch",
+            "mainClass": "com.tnsif.jdbc.RetrievingDataFromDb",
+            "projectName": "TNSTraining"
+        },
+        {
+            "type": "java",
             "name": "PerformingcurdOperations",
             "request": "launch",
             "mainClass": "com.tnsif.jdbc.PerformingcurdOperations",
