@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InsertByGui",
+            "request": "launch",
+            "mainClass": "com.tnsif.jdbc.InsertByGui",
+            "projectName": "TNSTraining"
+        },
+        {
+            "type": "java",
             "name": "RetrievingDataFromDb",
             "request": "launch",
             "mainClass": "com.tnsif.jdbc.RetrievingDataFromDb",
