@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PreparedStatementex",
+            "request": "launch",
+            "mainClass": "com.tnsif.jdbc.PreparedStatementex",
+            "projectName": "TNSTraining"
+        },
+        {
+            "type": "java",
             "name": "ExpensesInWeek",
             "request": "launch",
             "mainClass": "com.tnsif.jdbc.ExpensesInWeek",
