@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExpensesInWeek",
+            "request": "launch",
+            "mainClass": "com.tnsif.jdbc.ExpensesInWeek",
+            "projectName": "TNSTraining"
+        },
+        {
+            "type": "java",
             "name": "Search",
             "request": "launch",
             "mainClass": "com.tnsif.jdbc.Search",
